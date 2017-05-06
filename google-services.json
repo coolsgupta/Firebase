@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872648475299",
+    "firebase_url": "https://fir-92122.firebaseio.com",
+    "project_id": "fir-92122",
+    "storage_bucket": "fir-92122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872648475299:android:1317901ec90fe3e3",
+        "android_client_info": {
+          "package_name": "coolsgupta.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872648475299-9ba55jfuri85s8d2k1g31k77ktaf1p5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ftTQSp219ogJTKnszj4UdzsM42lsXAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
